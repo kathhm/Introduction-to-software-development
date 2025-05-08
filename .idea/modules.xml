@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Module-03/IMC-Calculator/IMC-Calculator.iml" filepath="$PROJECT_DIR$/Module-03/IMC-Calculator/IMC-Calculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Introduction to software development - Amazon.iml" filepath="$PROJECT_DIR$/.idea/Introduction to software development - Amazon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Module-02-buclesForYWhile/Module-02-buclesForYWhile.iml" filepath="$PROJECT_DIR$/Module-02-buclesForYWhile/Module-02-buclesForYWhile.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Module-03/Module-03.iml" filepath="$PROJECT_DIR$/Module-03/Module-03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Reto-02/Reto-02.iml" filepath="$PROJECT_DIR$/Reto-02/Reto-02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Module-03/car-simulation-project/car-simulation-project.iml" filepath="$PROJECT_DIR$/Module-03/car-simulation-project/car-simulation-project.iml" />
+    </modules>
+  </component>
+</project>
